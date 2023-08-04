@@ -1,3 +1,7 @@
 # your code goes here!
 class Anagram:
-    pass
+    def __init__(self, word):
+        pass
+
+    def match():
+        pass
